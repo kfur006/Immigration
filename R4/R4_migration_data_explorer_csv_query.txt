@@ -1,0 +1,14 @@
+{
+  "title": "R4 Residence Occupations by Decision Type and Occupation and Nationality and Applicant Type",
+  "subtitle": "",
+  "dname": "R4_residence_occupations",
+  "datekind": "m",
+  "seas": false,
+  "dvars": [
+    "Decision Type",
+    "Occupation",
+    "Nationality",
+    "Applicant Type"
+  ],
+  "conds": null
+}
