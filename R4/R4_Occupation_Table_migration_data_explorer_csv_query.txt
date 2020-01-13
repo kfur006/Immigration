@@ -1,0 +1,14 @@
+{
+  "title": "R4 Residence Occupations by Occupation and Occupation Code and Occupation Skill Level and Occupation Standard",
+  "subtitle": "",
+  "dname": "R4_residence_occupations",
+  "datekind": "m",
+  "seas": false,
+  "dvars": [
+    "Occupation",
+    "Occupation Code",
+    "Occupation Skill Level",
+    "Occupation Standard"
+  ],
+  "conds": null
+}

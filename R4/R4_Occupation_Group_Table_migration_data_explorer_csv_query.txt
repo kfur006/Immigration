@@ -1,0 +1,14 @@
+{
+  "title": "R4 Residence Occupations by Standard Major Group and Standard Submajor Group and Occupation and Occupation Code",
+  "subtitle": "",
+  "dname": "R4_residence_occupations",
+  "datekind": "m",
+  "seas": false,
+  "dvars": [
+    "Standard Major Group",
+    "Standard Submajor Group",
+    "Occupation",
+    "Occupation Code"
+  ],
+  "conds": null
+}
